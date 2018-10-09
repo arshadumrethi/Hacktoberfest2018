@@ -245,3 +245,7 @@
 ### Name [Stu Wares](https://github.com/StuWares)
 - Bio: Tech support by day, learning to code at night!
 - Programming Language: JavaScript, Python, Rust
+
+### Name [Arshad Umrethi](https://github.com/arshadumrethi)
+- Bio: Learning to code, hope to become a self-taught developer
+- Programming Language: JavaScript, Python, R
